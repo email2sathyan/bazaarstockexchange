@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/email2sathyan/bazaarstockexchange.git"
+    }
+  ],
+  "description": "bazaarstockexchange",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "bazaarstockexchange",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
